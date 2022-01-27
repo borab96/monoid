@@ -1,7 +1,7 @@
 <h1 align="center">monoid</h1>
 <p align="center">Monoidal backtesting and position handling framework</p>
 
-<img src="monoid.png" width=50% height=50% align="center">
+<img align="middle" src="monoid.png" width=50% height=50%>
 
 A mathematically elegant backtester built on general abstract nonsense with an algebraic design pattern - Not really intended for utility. 
 
